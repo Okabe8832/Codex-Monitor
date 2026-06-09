@@ -1,4 +1,5 @@
 # Codex-Monitor
+Get a quick overview of the Codex's operating status via Mac system audio cues.
 通过MAC系统声音提示简单了解codex工作状态
 
 
