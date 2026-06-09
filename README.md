@@ -1,4 +1,4 @@
-# Codex-monitor
+# Codex-Monitor
 通过MAC系统声音提示简单了解codex工作状态
 
 
